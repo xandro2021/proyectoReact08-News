@@ -1,12 +1,9 @@
 #+title: React & Vite Project 06
 
-* React + Vite
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [[https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md][vitejs/plugin-react]] uses [[https://babeljs.io/][Babel]] for Fast Refresh
-- [[https://github.com/vitejs/vite-plugin-react-swc][vitejs/plugin-react-swc]] uses [[https://swc.rs/][SWC]] for Fast Refresh
+* About
++ Simple React project application to consume a news API
++ It is styled using Material UI for React
++ It is used the as practice to review aspects like Context API, useEffect, and useState
 
 * Initial Steps used to create a project with VITE
 ** Create the Project
@@ -33,3 +30,5 @@ npm i axios
 npm install @mui/material @emotion/react @emotion/styled
 #+end_src
 * Extra notes
+* Deployment
+[[https://peppy-pavlova-591000.netlify.app/][Link to Deployment]]
